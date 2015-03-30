@@ -10,4 +10,4 @@
     echo "Hello this is about us page";
     $name = "Jimil S";
     $name = ucfirst($name);
-    echo "Welcome my world. ".$name;
+    echo "Welcome to my world. ".$name;
